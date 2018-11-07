@@ -1,0 +1,14 @@
+c:\users\jguzman\documents\visual studio 2015\Projects\TaskResultTest\TaskResultTest\bin\Debug\TaskResultTest.exe.config
+c:\users\jguzman\documents\visual studio 2015\Projects\TaskResultTest\TaskResultTest\bin\Debug\TaskResultTest.exe
+c:\users\jguzman\documents\visual studio 2015\Projects\TaskResultTest\TaskResultTest\bin\Debug\TaskResultTest.pdb
+c:\users\jguzman\documents\visual studio 2015\Projects\TaskResultTest\TaskResultTest\obj\Debug\TaskResultTest.csprojResolveAssemblyReference.cache
+c:\users\jguzman\documents\visual studio 2015\Projects\TaskResultTest\TaskResultTest\obj\Debug\MainWindow.g.cs
+c:\users\jguzman\documents\visual studio 2015\Projects\TaskResultTest\TaskResultTest\obj\Debug\App.g.cs
+c:\users\jguzman\documents\visual studio 2015\Projects\TaskResultTest\TaskResultTest\obj\Debug\TaskResultTest_MarkupCompile.cache
+c:\users\jguzman\documents\visual studio 2015\Projects\TaskResultTest\TaskResultTest\obj\Debug\TaskResultTest_MarkupCompile.lref
+c:\users\jguzman\documents\visual studio 2015\Projects\TaskResultTest\TaskResultTest\obj\Debug\MainWindow.baml
+c:\users\jguzman\documents\visual studio 2015\Projects\TaskResultTest\TaskResultTest\obj\Debug\TaskResultTest.g.resources
+c:\users\jguzman\documents\visual studio 2015\Projects\TaskResultTest\TaskResultTest\obj\Debug\TaskResultTest.Properties.Resources.resources
+c:\users\jguzman\documents\visual studio 2015\Projects\TaskResultTest\TaskResultTest\obj\Debug\TaskResultTest.csproj.GenerateResource.Cache
+c:\users\jguzman\documents\visual studio 2015\Projects\TaskResultTest\TaskResultTest\obj\Debug\TaskResultTest.exe
+c:\users\jguzman\documents\visual studio 2015\Projects\TaskResultTest\TaskResultTest\obj\Debug\TaskResultTest.pdb
